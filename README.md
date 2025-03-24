@@ -16,7 +16,7 @@
 huaqi
 ├─back #平台后端
 ├─front #平台前端
-├─预测model #完整的模型以及数据
+├─predict model #完整的模型以及数据
 └─README.md #说明文件
 ```
 
