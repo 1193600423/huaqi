@@ -15,7 +15,7 @@
           </div>
           <div class="sub-block">
             <h3>当前预测外汇价格</h3>
-            <div class="price">5.99</div>
+            <div class="price">7.2536</div>
           </div>
         </div>
         <div class="block real-time">
